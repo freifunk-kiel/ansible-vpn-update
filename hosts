@@ -1,5 +1,5 @@
 [vpn]
-#vpn0 ansible_user=rubo77
+vpn0 ansible_user=rubo77
 vpn1 ansible_user=rubo77
 vpn2 ansible_user=rubo77
 vpn3 ansible_user=rubo77
