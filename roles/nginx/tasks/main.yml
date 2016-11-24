@@ -1,6 +1,0 @@
----
-# NGINX install file
-- name: install
-  apt:
-    name: nginx
-    state: present
