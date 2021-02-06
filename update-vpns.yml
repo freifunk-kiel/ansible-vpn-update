@@ -1,5 +1,0 @@
----
-- hosts: vpn
-  roles:
-    - {role: dhcp, tags: ["dhcp"]}
-    - {role: nullmailer, tags: ["nullmailer"]}

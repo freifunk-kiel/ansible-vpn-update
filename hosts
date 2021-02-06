@@ -1,9 +1,0 @@
-[vpn]
-#vpn0 ansible_user=rubo77
-vpn1 ansible_user=rubo77
-vpn2 ansible_user=rubo77
-vpn3 ansible_user=rubo77
-#vpn4 ansible_user=rubo77
-vpn5 ansible_user=rubo77
-vpn6 ansible_user=rubo77
-vpn7 ansible_user=rubo77

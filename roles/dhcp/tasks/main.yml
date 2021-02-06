@@ -1,4 +1,0 @@
----
-- name: add all dns servers in /etc/dhcp/interface-br-{{mesh_code}}.conf 
-  lineinfile: dest=/etc/dhcp/interface-br-{{mesh_code}}.conf regexp='^\s*option domain-name-servers.*$' line='  option domain-name-servers {{dns_ips}};' backrefs=yes
-  become: true
